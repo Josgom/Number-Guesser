@@ -1,0 +1,1 @@
+Codecademy Number Guesser project JavaScript
